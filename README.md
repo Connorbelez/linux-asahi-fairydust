@@ -66,3 +66,7 @@ This is an agent-assisted personal-fork experiment. Asahi's policy prohibits LLM
 ## Maintenance and verification
 
 This is a standalone packaging project extracted from the published PKGBUILDs experiment. Run `bash scripts/verify.sh` for source integrity and manifest behavior. CI does not compile or boot the kernel. See [attribution](ATTRIBUTION.md), [maintenance](MAINTAINERS.md), [roadmap](ROADMAP.md), and [promotion plan](PROMOTION.md). No stable release or signed binary package is provided.
+
+## Maintenance backlog
+
+The [GitHub Project](https://github.com/users/Connorbelez/projects/15) tracks the roadmap issues and release qualification. See [maintenance](MAINTAINERS.md) for ownership and review expectations.
