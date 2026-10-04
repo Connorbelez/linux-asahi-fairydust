@@ -1,0 +1,40 @@
+{
+  "stable": "94fb23346d522edf53722357c426a3e58030beea",
+  "fairydust": "ce9f2eba72c061a50b2d790450e90af3439d8c24",
+  "ancestor": "ed2201483aa4e94868164306412cd821633cedf6",
+  "commits": [
+    "296c91ac1fa51a21117524561cd77eaf0c7fe62a usb: typec: tipd: Track data_status changes for CD321x",
+    "9c16792154f8454ccbc6a28309d57d531ced015a usb: typec: tipd: HACK: Use drm oob hotplug event",
+    "7eb5629306578387dbee2add2ee4ec00239f723d arm64: dts: apple: t8103: Add dp-altmode dts hacks",
+    "7003fe04cb40b6e16ca44726857fac2cba99ec43 HACK: arm64: dts: apple: t8103: Mark ps_atc1_common as always on",
+    "bd435201b52785b50b511ae7df87d1f9a8a2714e arm64: dts: apple: t8112: Add dp-altmode dts hacks",
+    "6f72fa4b26b42f8a88f1d17f4f0d2d482c1e93a8 HACK: arm64: dts: apple: t8112: Mark ps_atc1_common as always on",
+    "eebf132beaf1f0c73b1471fa8f9b1f03aeb5f499 arm64: dts: apple: t60xx: j[34]1[46]: Add dp-altmode hacks",
+    "a54f5fe496c3fdee2615e42c8aa4018ed9f7f807 HACK: arm64: dts: apple: t60xx: j[34]1[46]: Mark ps_atc1_common as always on",
+    "0b0e4af50f8cd1ccbec26265dab4de388a238182 arm64: dts: apple: t60xx: j[34]75: Add dp-altmode hacks",
+    "cf8f09832bde2851528598ebbc3c59528348ea23 HACK: arm64: dts: apple: t60xx: j[34]75: Mark ps_atc1_common as always on",
+    "b4a562f643bba937229e21994069c4ee291c3510 arm64: dts: apple: t6020-j474s: Add dp-altmode hacks",
+    "ce9f2eba72c061a50b2d790450e90af3439d8c24 arm64: dts: apple: t8103: Add SIO alias"
+  ],
+  "files": [
+    "arch/arm64/boot/dts/apple/t6001-j375c.dts",
+    "arch/arm64/boot/dts/apple/t6002-j375d.dts",
+    "arch/arm64/boot/dts/apple/t600x-j314-j316.dtsi",
+    "arch/arm64/boot/dts/apple/t600x-j375.dtsi",
+    "arch/arm64/boot/dts/apple/t6020-j474s.dts",
+    "arch/arm64/boot/dts/apple/t6021-j475c.dts",
+    "arch/arm64/boot/dts/apple/t6022-j475d.dts",
+    "arch/arm64/boot/dts/apple/t6022-jxxxd.dtsi",
+    "arch/arm64/boot/dts/apple/t8103-jxxx.dtsi",
+    "arch/arm64/boot/dts/apple/t8112-j413.dts",
+    "arch/arm64/boot/dts/apple/t8112-j415.dts",
+    "arch/arm64/boot/dts/apple/t8112-j473.dts",
+    "arch/arm64/boot/dts/apple/t8112-j493.dts",
+    "arch/arm64/boot/dts/apple/t8112-jxxx.dtsi",
+    "drivers/usb/typec/tipd/core.c",
+    "drivers/usb/typec/tipd/tps6598x.h"
+  ],
+  "config_sha256": "ae1d4ce855bd435b62c8fb213cbcf2d4eefd47b62274792c4a6bf299848b3876",
+  "patch_sha256": "7af72b4e4a359c61af45973e6d330906097162e6629d08efeebb27e5b981418b",
+  "running_kernel": "7.1.13-3-2-ARCH"
+}

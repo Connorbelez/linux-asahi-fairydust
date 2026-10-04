@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Verify reconnect and HDMI audio on J293",
+    "body": "Acceptance: provide reproducible verification and record exact source/dependency revisions. See ROADMAP.md for scope."
+  },
+  {
+    "title": "Qualify suspend/resume and an independent stock boot",
+    "body": "Acceptance: provide reproducible verification and record exact source/dependency revisions. See ROADMAP.md for scope."
+  },
+  {
+    "title": "Review shared m1n1 DTB recovery on a spare installation",
+    "body": "Acceptance: provide reproducible verification and record exact source/dependency revisions. See ROADMAP.md for scope."
+  },
+  {
+    "title": "Update the stable pin without losing stable fixes",
+    "body": "Acceptance: provide reproducible verification and record exact source/dependency revisions. See ROADMAP.md for scope."
+  }
+]
